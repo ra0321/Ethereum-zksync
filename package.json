@@ -1,0 +1,24 @@
+{
+  "name": "ethereum_zksync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphanetRA/Ethereum_zksync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphanetRA/Ethereum_zksync/issues"
+  },
+  "homepage": "https://github.com/AlphanetRA/Ethereum_zksync#readme",
+  "dependencies": {
+    "ethers": "^5.5.2",
+    "zksync": "^0.11.6"
+  }
+}
